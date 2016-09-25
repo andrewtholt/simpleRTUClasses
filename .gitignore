@@ -1,0 +1,10 @@
+.cproject
+.project
+.settings
+Safe
+*.o
+*.d
+*.bin
+*.elf
+*.map
+*.list
